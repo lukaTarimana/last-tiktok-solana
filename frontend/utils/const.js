@@ -8,7 +8,7 @@ export const SOLANA_HOST = process.env.REACT_APP_SOLANA_API_URL
   : clusterApiUrl("testnet");
 
 export const TIKTOK_PROGRAM_ID = new PublicKey(
-  "BShqBmAsHXUMnc79Z1EHtWywiic5S1FWH2Kd8i35wiwA"
+  "3UUjfr2vkvTCE7g678sSQozrb8iuoHMs6yQQZcJw95Z2"
 );
 
 export const TIKTOK_IDL = tiktok;
